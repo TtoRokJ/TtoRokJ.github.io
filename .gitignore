@@ -12,7 +12,6 @@ _site
 
 # NPM dependencies
 node_modules
-node/
 package-lock.json
 
 # IDE configurations
