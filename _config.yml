@@ -18,12 +18,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: TtoRokJ의 상품소개 # the main title
+title: TtoRokJ\uc758 \uc0c1\ud488\uc18c\uac1c # the main title
 
-tagline: 최저가&특별한 상품소개 # it will display as the sub-title
+tagline: \ucd5c\uc800\uac00&\ud2b9\ubcc4\ud55c \uc0c1\ud488\uc18c\uac1c # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  모두가 원하는 제품을 소개합니다. 최저가&특별한 상품을 만나보세요.
+  \ubaa8\ub450\uac00 \uc6d0\ud558\ub294 \uc81c\ud488\uc744 \uc18c\uac1c\ud569\ub2c8\ub2e4. \ucd5c\uc800\uac00&\ud2b9\ubcc4\ud55c \uc0c1\ud488\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://TtoRokJ.github.io"
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ""E:\워드프레스\자료\또록 로고(무배경).png""
+avatar: "/commons/avatar.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
