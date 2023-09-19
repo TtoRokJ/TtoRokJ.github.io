@@ -18,12 +18,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: TtoRokJ\uc758 \uc0c1\ud488\uc18c\uac1c # the main title
+title: TtoRokJ # the main title
 
-tagline: \ucd5c\uc800\uac00&\ud2b9\ubcc4\ud55c \uc0c1\ud488\uc18c\uac1c # it will display as the sub-title
+tagline: Product lowest price information # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  \ubaa8\ub450\uac00 \uc6d0\ud558\ub294 \uc81c\ud488\uc744 \uc18c\uac1c\ud569\ub2c8\ub2e4. \ucd5c\uc800\uac00&\ud2b9\ubcc4\ud55c \uc0c1\ud488\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.
+  Introducing products that everyone wants. Find the lowest prices and special items.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://TtoRokJ.github.io"
